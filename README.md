@@ -1,2 +1,1 @@
-# nftproject
-This is a repository for an NFT project.
+This is an NFT project.
