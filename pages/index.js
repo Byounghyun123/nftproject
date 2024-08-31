@@ -5,6 +5,7 @@ import Head from 'next/head';
 import Style from '../styles/index.module.css';
 import {
   HeroSection,
+  NavBar,
 } from '../components/componentsindex';
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
         <link rel="icon" href="/nft1.png" />
       </Head>
       <HeroSection />
+      <NavBar />
     </div>
   );
 };

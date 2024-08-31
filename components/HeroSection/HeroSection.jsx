@@ -12,9 +12,9 @@ const HeroSection = () => {
           <div className={Style.HeroSection_text}>
             <div className={Style.HeroSection_box_title1}>
               SØCIAL
-            </div>
-            <div className={Style.HeroSection_box_title2}>
-              ENEMIES.
+              <div className={Style.HeroSection_box_title2}>
+                ENEMIES.
+              </div>
             </div>
           </div>
           <div className={Style.HeroSection_box_img}>
