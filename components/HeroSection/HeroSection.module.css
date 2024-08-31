@@ -5,16 +5,16 @@
 }
 
 .HeroSection_text {
-    /* flex: 1; */
     z-index: 1;
     margin-top: -100px;
+    cursor: default;
 }
 
 .HeroSection_box_title1{
     font-size: 45rem;
     font-weight: bold;
     z-index: 1;
-    margin-top: 0;
+    margin-top: 20px;
 }
 
 .HeroSection_box_title2 {
@@ -22,13 +22,12 @@
     font-weight: bold;
     z-index: 1;
     margin-top: -170px;
-    margin-left: 100px;
-    font-size: 40rem;
+    margin-left: 210px;
+    font-size: 37rem;
 }
 
 .HeroSection_box_img {
     margin-top: -50px;
-    margin-left: 10px;
     width: 0px;
     flex: 1;
     display: flex;
